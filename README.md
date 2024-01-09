@@ -42,3 +42,6 @@ Start the development server:
 npm run dev
 php artisan serve
 ```
+
+## Nasir369
+-  [Nasir369](https://nasir369.netlify.app/).
